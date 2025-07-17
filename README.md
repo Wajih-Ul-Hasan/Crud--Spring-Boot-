@@ -1,1 +1,1 @@
-Simple Todo App using spring Boot with crud functionality.
+A simple Todo App using Java Spring Boot and Spring MVC
